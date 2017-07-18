@@ -1,6 +1,6 @@
-#include <iostream>
+#include <stdio.h>
 
 int main() {
-	std::cout << "It works!";
+	printf("It works!\n");
 	return 0;
 }
